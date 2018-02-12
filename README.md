@@ -1,7 +1,7 @@
-# msu-datascience-ml-tutorial-2018
 
-### Machine Learning with Pythong @ MSU Data Science 2018
+## Machine Learning with Python @ MSU Data Science 2018
 
+### This repo is still work in progress!
 
 ![](images/logo.png)
 
@@ -12,8 +12,7 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 ---
 
 - View the presentation slides <I will post the slides after the tutorial>
-- View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/msu-datascience-ml-tutorial-2018/blob/master/code/tutorial.ipynb)
-- [Video recording](https://www.youtube.com/watch?v=9fOWryQq9J8) of the talk on YouTube
+- View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/msu-datascience-ml-tutorial-2018/blob/master/code/tutorial.ipynb) <will add the code notebook soon!>
 
 ---
 
@@ -31,3 +30,45 @@ I recommend watching the MSU Data Science website and Facebook group for (last m
 
 
 
+# Obtaining the Tutorial Material
+
+If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/rasbt/msu-datascience-ml-tutorial-2018` and fetch updates via `pull origin master`
+
+If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/rasbt/msu-datascience-ml-tutorial-2018) in your browser and click the green “Download” button in the upper right.
+
+![](images/github-download.png)
+
+
+# Installation Notes and Requirements
+
+Please note that installing the following libraries and running code alongside is **not a hard requirement for attending the tutorial session**, you will be able to follow along just fine (and probably be less distracted :)). Now, the tutorial code should be compatible to both Python 2.7 and Python 3.x. but will require recent installations of
+
+- [NumPy](http://www.numpy.org)
+- [SciPy](http://www.scipy.org)
+- [matplotlib](http://matplotlib.org)
+- [pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [IPython](http://ipython.readthedocs.org/en/stable/)
+- [Jupyter Notebook](http://jupyter.org)
+- [watermark](https://pypi.python.org/pypi/watermark)
+- [mlxtend](http://rasbt.github.io/mlxtend/)
+
+To install these libraries it's most convenient to either use [conda](https://conda.io/miniconda.html) or [pip](https://pip.pypa.io/en/stable/), e.g.,
+
+    conda install numpy
+
+or
+
+    pip install numpy
+
+etc.
+
+
+Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the code/check_environment.ipynb](code/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by the notebook via
+
+```bash
+jupyter notebook <path-to>/msu-datascience-ml-tutorial-2018/code/check_environment.ipynb
+```
+and executing the code cells:
+
+![](images/checkenv-example.png)
