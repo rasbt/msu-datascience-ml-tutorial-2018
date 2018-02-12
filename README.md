@@ -11,8 +11,8 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 ---
 
-- View the presentation slides <I will post the slides after the tutorial>
-- View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/msu-datascience-ml-tutorial-2018/blob/master/code/tutorial.ipynb) <will add the code notebook soon!>
+- View the presentation slides { I will post the slides after the tutorial }
+- View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/msu-datascience-ml-tutorial-2018/blob/master/code/tutorial.ipynb) { will add the code notebook soon! }
 
 ---
 
