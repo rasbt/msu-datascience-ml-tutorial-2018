@@ -1,8 +1,6 @@
 
 ## Machine Learning with Python @ MSU Data Science 2018
 
-### This repo is still work in progress!
-
 ![](images/logo.png)
 
 This tutorial will teach you the basics of scikit-learn. I will give you a brief overview of the basic concepts of classification and regression analysis, and how to build powerful predictive models from labeled data. Although it's not a requirement for attending this tutorial, I highly recommend you to check out the accompanying GitHub repository at https://github.com/rasbt/msu-datascience-ml-tutorial-2018 1-2 days before the tutorial. During the session, we will not only talk about scikit-learn, but we will also go over some live code examples to get the knack of scikit-learn's API.   
@@ -11,8 +9,8 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 ---
 
-- View the presentation slides { I will post the slides after the tutorial }
-- View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/msu-datascience-ml-tutorial-2018/blob/master/code/tutorial.ipynb) { will add the code notebook soon! }
+- View the presentation slides: { will be uploaded after the tutorial }
+- View the code notebook: [code/tutorial.ipynb](code/tutorial.ipynb)
 
 ---
 
