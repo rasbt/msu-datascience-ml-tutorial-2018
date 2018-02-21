@@ -9,7 +9,7 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 ---
 
-- View the presentation slides: { will be uploaded after the tutorial }
+- View the presentation slides: [https://speakerdeck.com/rasbt/machine-learning-with-python](https://speakerdeck.com/rasbt/machine-learning-with-python)
 - View the code notebook: [code/tutorial.ipynb](code/tutorial.ipynb)
 
 ---
